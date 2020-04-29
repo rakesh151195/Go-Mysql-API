@@ -14,8 +14,8 @@
 ## Start the application
 #### Step 1: Clone the Project Open a terminal and run the following commands
 ```
-git clone https://github.com/ShubhamNatekar/Dockerized-GO-Mysql-API.git
-cd Dockerized-GO-Mysql-API
+git clone https://github.com/rakesh151195/GO-Mysql-API.git
+cd GO-Mysql-API
 ```
 #### Step 2:
 ```
